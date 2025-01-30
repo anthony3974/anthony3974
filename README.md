@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anthony3974
 - 👀 I’m interested in:
   - .NET (C#)
-  - Unity 2D
+  - Unity Game Engine
   - .NET MAUI
   - Python
 - 🌱 I’m currently learning:
