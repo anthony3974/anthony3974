@@ -8,6 +8,7 @@
   - Mobile development
   - Android Studio
   - Kotlin
+  - Unity 3D
 - 💞️ I’m looking to collaborate on mobile and game development projects.
 - 📫 How to reach me:
   - Phone: +1 (647) 562-9698
