@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anthony3974
-- 👀 I’m interested in:
+- 👀 I’m most passionate about:
   - .NET (C#)
   - Unity Game Engine
   - .NET MAUI
