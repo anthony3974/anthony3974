@@ -1,20 +1,29 @@
-- 👋 Hi, I’m @anthony3974
-- 👀 I’m most passionate about:
-  - .NET (C#)
-  - Unity Game Engine
-  - .NET MAUI
-  - Python
-- 🌱 I’m currently learning:
-  - Mobile development
-  - Android Studio
-  - Kotlin
-  - Unity 3D
-- 💞️ I’m looking to collaborate on mobile and game development projects.
-- 📫 How to reach me:
-  - Phone: +1 (647) 562-9698
-  - Email: anthonysilva2025git@outlook.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love mixing tech with creativity, from coding to game design.
+# 👋 Hi, I’m Anthony (@anthony3974)  
+I’m a passionate software developer with a strong focus on game development and mobile applications.  
+
+## 🚀 What I’m Passionate About  
+- **.NET (C#)** – Building powerful applications with a robust framework  
+- **Unity Game Engine** – Bringing ideas to life through game development  
+- **.NET MAUI** – Crafting cross-platform mobile and desktop apps  
+- **Python** – Solving problems with clean and efficient code  
+
+## 🌱 Currently Learning  
+- **Mobile Development** – Enhancing user experiences across devices  
+- **Android Studio & Kotlin** – Diving deeper into Android app development  
+- **Unity 3D** – Exploring advanced game mechanics and optimization  
+
+## 💡 Looking to Collaborate On  
+Exciting **mobile and game development projects** where creativity meets innovation.  
+
+## 📫 Get in Touch  
+📞 **Phone:** +1 (647) 562-9698  
+📧 **Email:** [anthonysilva2025git@outlook.com](mailto:anthonysilva2025git@outlook.com)  
+
+## 😄 Pronouns  
+**He/Him**  
+
+## ⚡ Fun Fact  
+I love blending **technology with creativity**, from crafting immersive games to designing interactive experiences!  
 
 
 <!---
