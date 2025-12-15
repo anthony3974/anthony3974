@@ -1,32 +1,31 @@
-# 👋 Hi, I’m Anthony (@anthony3974)  
-I’m a passionate software developer with a strong focus on game development and mobile applications.  
+# 👋 Hi, I’m Anthony (@anthony3974)
 
-## 🚀 What I’m Passionate About  
-- **.NET (C#)** – Building powerful applications with a robust framework  
-- **Unity Game Engine** – Bringing ideas to life through game development  
-- **.NET MAUI** – Crafting cross-platform mobile and desktop apps  
-- **Python** – Solving problems with clean and efficient code  
+I’m a software developer with a strong interest in **Linux systems, backend development, and applied infrastructure**. I enjoy building full-stack applications, automating systems, and running real services end-to-end rather than working only in isolated demos.
 
-## 🌱 Currently Learning  
-- **Mobile Development** – Enhancing user experiences across devices  
-- **Android Studio & Kotlin** – Diving deeper into Android app development  
-- **Unity 3D** – Exploring advanced game mechanics and optimization  
+## 🚀 What I Work With
+- **C# / .NET** – Building backend services and application logic  
+- **Python** – Automation, data pipelines, and system tooling  
+- **Linux (Ubuntu)** – Daily use, server management, troubleshooting  
+- **REST APIs** – Designing and consuming JSON-based services  
+- **SQL / Data Systems** – MySQL, SQL Server, HDFS  
+- **Git** – Collaborative workflows, branching, and conflict resolution  
 
-## 💡 Looking to Collaborate On  
-Exciting **mobile and game development projects** where creativity meets innovation.  
+## 🧠 Projects & Interests
+- **Systems Monitoring + HDFS Pipeline** – Collected and aggregated system metrics, enforced retention policies, and visualized trends across multiple VMs  
+- **AI Price Checker (Capstone)** – UI/UX consistency, client-side auth state management, and performance UX improvements in a team-based project  
+- **Home Server** – Proxmox-based environment using OpenMediaVault for storage and Nextcloud as the public interface, accessed privately via Tailscale VPN  
 
-## 📫 Get in Touch  
-📞 **Phone:** +1 (647) 562-9698  
-📧 **Email:** [anthonysilva2025git@outlook.com](mailto:anthonysilva2025git@outlook.com)  
+## 🌱 Currently Exploring
+- Linux systems administration and infrastructure tooling  
+- Automation and monitoring for long-running services  
+- Backend and platform-adjacent development  
 
-## 😄 Pronouns  
-**He/Him**  
+## 💡 Open to Collaborate On
+Projects involving **backend development, Linux systems, automation, or infrastructure-adjacent software**.
 
-## ⚡ Fun Fact  
-I love blending **technology with creativity**, from crafting immersive games to designing interactive experiences!  
+## 📫 Get in Touch
+📧 **Email:** anthonysilva2025git@outlook.com  
+🔗 **LinkedIn:** https://linkedin.com/in/anthony-silva-a1a3631aa  
 
-
-<!---
-anthony3974/anthony3974 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## ⚡ Fun Fact
+I enjoy running and maintaining my own systems just as much as writing the software that runs on them.
